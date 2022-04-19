@@ -1,0 +1,9 @@
+@10 = ~Noms des clés~
+
+
+@100 = ~Afficher le fichier Readme~
+@101 = ~Afficher le fichier readme après l'installation~
+@102 = ~Ne pas afficher le fichier readme après l'installation~
+
+@150 = ~%u_name% (a déjà servi)~  //  %u_name% is replaced with the unidentified item name
+@151 = ~%name% (a déjà servi)~    //  %name% is replaced with the item name

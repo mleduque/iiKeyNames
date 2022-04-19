@@ -10,6 +10,7 @@ VERSION ~2.1~
 LANGUAGE ~English~ ~English~ ~iiKeyNames/Languages/English/setup.tra~
 LANGUAGE ~Spanish (Translation by Januszka)~  ~Spanish~ ~iiKeyNames/Languages/Spanish/setup.tra~
 LANGUAGE ~Polish (Translation by Yarpen)~  ~Polish~ ~iiKeyNames/Languages/Polish/setup.tra~
+  LANGUAGE ~French~  ~French~ ~iiKeyNames/Languages/French/setup.tra~
 
 // ------------------------------------------------------------------------------------------------------------------------
 // Readme stuff
